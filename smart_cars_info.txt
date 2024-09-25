@@ -1,0 +1,390 @@
+cqusnO2PZOVWXWAWSS800
+dp0QZTTDKT
+SCOUT MINI
+451
+490
+115
+0
+四轮四驱
+10000
+2
+公路轮
+175
+麦克纳姆轮
+175
+AGX Xavier
+32
+512
+64
+32
+32
+RealSense D435i
+D430
+1920 1080
+30
+87 58
+90
+RS-Helios-16p
+16
+100
+8
+CH110
+NXP
+11.6
+super
+24V/15Ah
+24V
+2
+1
+学生1
+cqusnK56D0RXBUZBPIE2V
+dp87WHW04Q
+SCOUT MINI
+451
+490
+115
+0
+四轮四驱
+10000
+2
+公路轮
+175
+麦克纳姆轮
+175
+AGX Xavier
+32
+512
+64
+32
+32
+RealSense D435i
+D430
+1920 1080
+30
+87 58
+90
+RS-Helios-16p
+16
+100
+8
+CH110
+NXP
+11.6
+super
+24V/15Ah
+24V
+2
+2
+学生2
+cqusnIDMG82VPZJP7RO5V
+dp3HAKCUEA
+SCOUT MINI
+451
+490
+115
+0
+四轮四驱
+10000
+2
+公路轮
+175
+麦克纳姆轮
+175
+AGX Xavier
+32
+512
+64
+32
+32
+RealSense D435i
+D430
+1920 1080
+30
+87 58
+90
+RS-Helios-16p
+16
+100
+8
+CH110
+NXP
+11.6
+super
+24V/15Ah
+24V
+2
+3
+学生3
+cqusnC8KUG5GRKO8A6H6H
+dp15AJEOA1
+SCOUT MINI
+451
+490
+115
+0
+四轮四驱
+10000
+2
+公路轮
+175
+麦克纳姆轮
+175
+AGX Xavier
+32
+512
+64
+32
+32
+RealSense D435i
+D430
+1920 1080
+30
+87 58
+90
+RS-Helios-16p
+16
+100
+8
+CH110
+NXP
+11.6
+super
+24V/15Ah
+24V
+2
+4
+学生4
+cqusnX42Z1JKKHPH1D3M2
+dpKSSYUTUE
+SCOUT MINI
+451
+490
+115
+0
+四轮四驱
+10000
+2
+公路轮
+175
+麦克纳姆轮
+175
+AGX Xavier
+32
+512
+64
+32
+32
+RealSense D435i
+D430
+1920 1080
+30
+87 58
+90
+RS-Helios-16p
+16
+100
+8
+CH110
+NXP
+11.6
+super
+24V/15Ah
+24V
+2
+5
+学生5
+cqusnH3AYLM4RINXFDOYN
+dpSOP8Z7RS
+SCOUT MINI
+451
+490
+115
+0
+四轮四驱
+10000
+2
+公路轮
+175
+麦克纳姆轮
+175
+AGX Xavier
+32
+512
+64
+32
+32
+RealSense D435i
+D430
+1920 1080
+30
+87 58
+90
+RS-Helios-16p
+16
+100
+8
+CH110
+NXP
+11.6
+super
+24V/15Ah
+24V
+2
+6
+学生6
+cqusnSHFK1MY8U2B0KN7R
+dp0XM5XGP3
+SCOUT MINI
+451
+490
+115
+0
+四轮四驱
+10000
+2
+公路轮
+175
+麦克纳姆轮
+175
+AGX Xavier
+32
+512
+64
+32
+32
+RealSense D435i
+D430
+1920 1080
+30
+87 58
+90
+RS-Helios-16p
+16
+100
+8
+CH110
+NXP
+11.6
+super
+24V/15Ah
+24V
+2
+7
+学生7
+cqusn7ZEMDIDVA3QOEMO5
+dp0RWJOR1E
+SCOUT MINI
+451
+490
+115
+0
+四轮四驱
+10000
+2
+公路轮
+175
+麦克纳姆轮
+175
+AGX Xavier
+32
+512
+64
+32
+32
+RealSense D435i
+D430
+1920 1080
+30
+87 58
+90
+RS-Helios-16p
+16
+100
+8
+CH110
+NXP
+11.6
+super
+24V/15Ah
+24V
+2
+8
+学生8
+cqusnFWM5COCEO5Y55GPX
+dp5JGZ4R1L
+SCOUT MINI
+451
+490
+115
+0
+四轮四驱
+10000
+2
+公路轮
+175
+麦克纳姆轮
+175
+AGX Xavier
+32
+512
+64
+32
+32
+RealSense D435i
+D430
+1920 1080
+30
+87 58
+90
+RS-Helios-16p
+16
+100
+8
+CH110
+NXP
+11.6
+super
+24V/15Ah
+24V
+2
+9
+学生9
+cqusnNVX8RSTT7USB7ZSU
+dp8TFF8DXE
+SCOUT MINI
+451
+490
+115
+0
+四轮四驱
+10000
+2
+公路轮
+175
+麦克纳姆轮
+175
+AGX Xavier
+32
+512
+64
+32
+32
+RealSense D435i
+D430
+1920 1080
+30
+87 58
+90
+RS-Helios-16p
+16
+100
+8
+CH110
+NXP
+11.6
+super
+24V/15Ah
+24V
+2
+10
+学生10
